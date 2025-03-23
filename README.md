@@ -48,7 +48,7 @@ In order to set up and run the application, you need the following:
 In a terminal, clone the sample code to your project's working directory with the following command:
 
 ```shell
-git clone https://github.com/thefalc/meal-planning-agent.git
+git clone https://github.com/starme208/Meal-Planning-AI-Agent.git
 ```
 
 ### Setting up MongoDB
